@@ -564,20 +564,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ---
 
-## 👨‍💻 Author
-
-<div align="center">
-
-**Harsh Jivani**
-
-[![GitHub](https://img.shields.io/badge/GitHub-harsh8104-181717?style=for-the-badge&logo=github)](https://github.com/harsh8104)
-[![Project](https://img.shields.io/badge/Project-QuickByte-FF6B6B?style=for-the-badge&logo=github)](https://github.com/harsh8104/Full-Stack)
-
-</div>
-
----
-
-## 🙏 Acknowledgments
+# 🙏 Acknowledgments
 
 - **[React Icons](https://react-icons.github.io/react-icons/)** - Icon components
 - **[Material-UI](https://mui.com/)** - UI component library
@@ -590,10 +577,5 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ---
 
-<div align="center">
 
-### ⭐ **Star this repository if you found it helpful!**
 
-**Made with ❤️ by [Harsh Jivani](https://github.com/harsh8104)**
-
-</div>
